@@ -8,8 +8,9 @@
   
 <table>
   <tr>
-    <td ><img src="https://github.com/user-attachments/assets/cd4c35cd-8847-4fcf-b3fd-a300bdad8b37"></td>
-    <td ><img src="https://github.com/user-attachments/assets/089d0da3-6a39-4d19-8698-56889004dfe5"></td>
+    <td ><img src="https://github.com/user-attachments/assets/58ab868c-08f2-4578-bcf5-9c1e5edfe081"></td>
+    <td ><img src="https://github.com/user-attachments/assets/8d961112-1281-478f-89ff-abb116ef286d"></td>
+    <td ><img src="https://github.com/user-attachments/assets/32431b3b-1e07-4bc1-be2e-43887f03bfbd"></td>
   </tr>
 </table>
 
@@ -31,11 +32,11 @@
 
 ## 👨‍💻 Tecnologias Usadas:
 - Python 3 v3.8
-- DeepFace
 - Numpy
-- Open CV
 - Tensorflow
-- 
+- PIL
+- Annoy
+- Scipy
 
 -----------------------------------------------------------
 ## ⚙  Instalação e Setup:
@@ -56,7 +57,6 @@ No terminal digite:
 
 ```bash
   pip install numpy
-  pip install opencv
   pip install pillow
   pip install tensorflow
   pip install tensorflow_hub
