@@ -57,7 +57,14 @@ No terminal digite:
 ```bash
   pip install numpy
   pip install opencv
-  pip install deepface
+  pip install pillow
+  pip install tensorflow
+  pip install tensorflow_hub
+  pip install pandas
+  pip install tqdm
+  pip install matplotlib
+  pip install annoy
+  pip install scipy
 ```
 
 No terminal digite:
