@@ -18,13 +18,9 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/4a2b603f-1013-4405-ba74-a095c309e2a1"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/448bd7e3-6218-4389-92d8-55a2542f5adf"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/0e80f9a1-7260-44fd-ab91-84976ff0ba70"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/6e709638-6575-4e3e-816d-da2b140c74ab"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/eabe4adf-bfb4-4cff-a038-d34fccb083a0"></td>
   </tr>
 </table>
 
